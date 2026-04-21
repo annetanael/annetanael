@@ -8,3 +8,8 @@ But I’m not giving up. Hopefully, I can get up to speed and deploy some person
 I’m currently setting up a blog on language learning and writing. Stay tuned. 😉
 
 In the meantime, you can check some of my past work on [Substack](https://substack.com/@annemuses).
+
+### Let’s chat
+If you want to get in touch with me about something, feel free to say hi on social media or by email.
+
+💌 [reddit](https://www.reddit.com/user/annemuses/) / [anne.mensajes@gmail.com](mailto:anne.mensajes@gmail.com)
