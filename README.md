@@ -1,6 +1,6 @@
-Hey there! ✨ I’m Anne, a content designer from the Philippines.
+Hey there! ✨ I’m Anne, a writer and editor from the Philippines.
 
-I haven’t used this site in a few years, and my repositories are all outdated. And to be completely honest with you, I forgot everything I was working on, and I have _no_ idea what I’m doing.
+I haven’t used this site in a few years, and all my repositories are now outdated. And to be completely honest with you, I forgot everything I was working on, and I have _no_ idea what I’m doing.
 
 But I’m not giving up. Hopefully, I can tidy things up, experiment a bit more, and deploy some personal projects soon.
 
