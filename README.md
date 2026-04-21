@@ -1,15 +1,13 @@
 ### ¡Hola! ✨
-I’m Anne, a content professional from the Philippines. I’m passionate about languages, writing, and inclusive communication. I speak Tagalog, English, and Spanish, and I’m currently learning Japanese.
+I’m Anne, a content professional from the Philippines. I’m passionate about languages, inclusive communication, and meaningful digital experiences. I speak Tagalog, English, and Spanish, and am currently learning Japanese.
 
-I haven’t used this site in years, and all my repositories are now outdated. To be honest, I already forgot everything I was working on, and I have no idea how this whole thing works anymore.
+I haven’t used GitHub in years. To be honest, I already forgot everything I was working on, and I have _no_ idea how this whole thing works anymore. 
 
-But I’m not giving up. Hopefully, I can get up to speed and deploy some personal projects soon.
-
-I’m currently setting up a blog on language learning and writing. Stay tuned. 😉
+But I’m not giving up. For now, my goal is to update my past projects and, hopefully, deploy new ones. In fact, I recently started a blog about language learning and writing, and I can’t wait for it to go live! Stay tuned. 😉
 
 In the meantime, you can check some of my past work on [Substack](https://substack.com/@annemuses).
 
 ### Let’s chat
-If you want to get in touch with me about something, feel free to say hi on social media or by email.
+Feel free to get in touch via social media or email.
 
 💌 [reddit](https://www.reddit.com/user/annemuses/) / [anne.mensajes@gmail.com](mailto:anne.mensajes@gmail.com)
