@@ -7,4 +7,4 @@ But I’m not giving up. Hopefully, I can get up to speed and deploy some person
 
 I’m currently setting up a blog on language learning and writing. Stay tuned. 😉
 
-And if you happen to know Spanish, you can find some of my writings on [Substack](https://substack.com/@annemuses).
+If you happen to know Spanish, you can find some of my writings on [Substack](https://substack.com/@annemuses).
