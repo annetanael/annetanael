@@ -1,5 +1,5 @@
 ### ¡Hola! ✨
-I’m Anne, a content designer from the Philippines. I’m passionate about languages, writing, and inclusive communication.  I speak Tagalog, English, and Spanish, and I’m currently learning Japanese.
+I’m Anne, a content designer from the Philippines. I’m passionate about languages, writing, and inclusive communication.  I speak Tagalog, English, and a bit of Spanish, and I’m currently learning Japanese.
 
 I haven’t used this site in years, and all my repositories are now outdated. And to be completely honest with you, I forgot everything I was working on, and I have _no_ idea how this whole thing works anymore.
 
