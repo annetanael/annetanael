@@ -8,6 +8,6 @@ But I’m not giving up. For now, my goal is to update my past projects and, hop
 In the meantime, you can check some of my past work on [Substack](https://substack.com/@annemuses).
 
 ### Let’s chat
-Feel free to get in touch with me via social media or email.
+Have a question or just want to say hi? Get in touch with me via social media or email.
 
 💌 [reddit](https://www.reddit.com/user/annemuses/) / [anne.mensajes@gmail.com](mailto:anne.mensajes@gmail.com)
