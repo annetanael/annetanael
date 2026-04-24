@@ -1,5 +1,5 @@
 ### ¡Hola! ✨
-I’m Anne, a content consultant from the Philippines with experience in technical writing, knowledge management, instructional design, and content design. Outside of work, I love nerding out on languages, hobbies, and creative projects.
+I’m Anne, a content consultant from the Philippines. My professional experience spans technical writing, knowledge management, instructional design, and content design. Outside of work, I love nerding out on languages, hobbies, and creative projects.
 
 I haven’t used GitHub in years. To be honest, I already forgot everything I was working on, and I have _no_ idea how this whole thing works anymore. 
 
