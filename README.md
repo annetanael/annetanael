@@ -12,4 +12,4 @@ Have a question or just want to say hi? Get in touch with me via social media or
 
 💌 [reddit](https://www.reddit.com/user/annemuses/) / [anne.mensajes@gmail.com](mailto:anne.mensajes@gmail.com)
 
-💬 discord: ```annemuses```
+💬 discord: ```anne_idiomas```
