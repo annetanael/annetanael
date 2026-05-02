@@ -10,6 +10,7 @@ In the meantime, you can check some of my past work on [Substack](https://substa
 ### Let’s chat
 Have a question or just want to say hi? Get in touch with me via social media or email.
 
+💬 discord: ```anne_idiomas```
 💌 [reddit](https://www.reddit.com/user/annemuses/) / [anne.mensajes@gmail.com](mailto:anne.mensajes@gmail.com)
 
-💬 discord: ```anne_idiomas```
+
