@@ -1,7 +1,7 @@
 ### ¡Hola! ✨
 I’m Anne, a content consultant from the Philippines. My professional experience spans technical writing, knowledge management, instructional design, and content design. Outside of work, I love nerding out on languages, hobbies, and creative projects.
 
-I recently launched a blog about language learning and writing ([annemuses.com](https://annemuses.com)), and I have two other blogs currently in the works. (I’m a bit too enthusiastic, _lo sé_.)
+I recently launched a blog about language learning and writing, and I have two other writing projects currently in the works. (I’m a bit too enthusiastic, _lo sé_.)
 
 You can also check some of my past work on [Substack](https://substack.com/@annemuses).
 
